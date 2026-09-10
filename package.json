@@ -1,16 +1,13 @@
 {
+  "type": "module",
   "name": "atividade_escola_materiais",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "Testar": "deu certo"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "dotenv": "^17.4.2",
-    "pg": "^8.23.0"
-  }
+  "description": ""  
 }
