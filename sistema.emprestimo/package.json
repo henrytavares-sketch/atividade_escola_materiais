@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "name": "atividade_escola_materiais",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "Testar": "deu certo"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "pg": "^8.23.0"
+  }
+}
