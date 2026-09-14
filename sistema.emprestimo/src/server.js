@@ -6,5 +6,5 @@ app.use(express.json());
 app.use('/equipamentos', EquipamentoRouter);
 
 app.listen(3000, () => {
-  console.log('Servidor rodando na porta http://localhost:3000/equipamentos');
+  console.log('Servidor rodando na porta http://localhost:3000');
 });
