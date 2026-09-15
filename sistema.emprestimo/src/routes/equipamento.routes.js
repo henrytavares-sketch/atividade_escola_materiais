@@ -56,3 +56,6 @@ EquipamentoRouter.patch('/:id/disponibilidade', async (req, res) => {
 });
 
 export default EquipamentoRouter;
+
+EquipamentoRouter.get('/status', (req, res) =>
+ { return res.json({ status: 'Servidor ativo e rodando!' }); });
